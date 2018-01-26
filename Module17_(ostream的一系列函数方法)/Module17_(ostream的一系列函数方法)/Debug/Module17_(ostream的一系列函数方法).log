@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+f:\cppstudy\module17_(ostream的一系列函数方法)\module17_(ostream的一系列函数方法)\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module17_(ostream的一系列函数方法)\module17_(ostream的一系列函数方法)\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module17_(ostream的一系列函数方法)\module17_(ostream的一系列函数方法)\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Module17ostream的一系列函数方法.cpp
+f:\cppstudy\module17_(ostream的一系列函数方法)\module17_(ostream的一系列函数方法)\module17ostream的一系列函数方法.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Module17_(ostream的一系列函数方法).vcxproj -> F:\CPPstudy\Module17_(ostream的一系列函数方法)\Debug\Module17_(ostream的一系列函数方法).exe
+  Module17_(ostream的一系列函数方法).vcxproj -> F:\CPPstudy\Module17_(ostream的一系列函数方法)\Debug\Module17_(ostream的一系列函数方法).pdb (Partial PDB)

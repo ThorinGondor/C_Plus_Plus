@@ -1,0 +1,5 @@
+﻿  Module15将对象用作异常类型.cpp
+f:\cppstudy\module15_(将对象用作异常类型)\module15_(将对象用作异常类型)\module15将对象用作异常类型.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module15_(将对象用作异常类型)\module15_(将对象用作异常类型)\module15将对象用作异常类型.cpp(36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Module15_(将对象用作异常类型).vcxproj -> F:\CPPstudy\Module15_(将对象用作异常类型)\Debug\Module15_(将对象用作异常类型).exe
+  Module15_(将对象用作异常类型).vcxproj -> F:\CPPstudy\Module15_(将对象用作异常类型)\Debug\Module15_(将对象用作异常类型).pdb (Partial PDB)

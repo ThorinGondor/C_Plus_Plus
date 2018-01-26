@@ -1,0 +1,6 @@
+﻿  File2.cpp
+  File1.cpp
+f:\cppstudy\module9_(名称空间的运用namespace)\module9_(名称空间的运用namespace)\file1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  Module9_(名称空间的运用namespace).vcxproj -> F:\CPPstudy\Module9_(名称空间的运用namespace)\Debug\Module9_(名称空间的运用namespace).exe
+  Module9_(名称空间的运用namespace).vcxproj -> F:\CPPstudy\Module9_(名称空间的运用namespace)\Debug\Module9_(名称空间的运用namespace).pdb (Partial PDB)

@@ -1,0 +1,18 @@
+#pragma once
+#ifndef COORDIN_H
+#define COORDIN_H
+struct polar
+{
+	double distance;
+	double angle;
+};
+struct rect
+{
+	double x;
+	double y;
+};
+
+//ÉùÃ÷º¯Êý£º
+polar rect_to_polar(rect xypos);
+void show_polar(polar dapos);
+#endif // !COORDIN_H

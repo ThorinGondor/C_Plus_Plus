@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module8_(函数显式具体化)", "Module8_(函数显式具体化)\Module8_(函数显式具体化).vcxproj", "{50D6BA6D-B1B8-4BBB-BC39-5337D891F7EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D6BA6D-B1B8-4BBB-BC39-5337D891F7EF}.Debug|x64.ActiveCfg = Debug|x64
+		{50D6BA6D-B1B8-4BBB-BC39-5337D891F7EF}.Debug|x64.Build.0 = Debug|x64
+		{50D6BA6D-B1B8-4BBB-BC39-5337D891F7EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{50D6BA6D-B1B8-4BBB-BC39-5337D891F7EF}.Debug|x86.Build.0 = Debug|Win32
+		{50D6BA6D-B1B8-4BBB-BC39-5337D891F7EF}.Release|x64.ActiveCfg = Release|x64
+		{50D6BA6D-B1B8-4BBB-BC39-5337D891F7EF}.Release|x64.Build.0 = Release|x64
+		{50D6BA6D-B1B8-4BBB-BC39-5337D891F7EF}.Release|x86.ActiveCfg = Release|Win32
+		{50D6BA6D-B1B8-4BBB-BC39-5337D891F7EF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {620057FE-150A-4A25-AAB3-8C2D10C295F1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿  File2.cpp
+f:\cppstudy\module10_(类的构造函数--用于声明对象时初始化)\module10_(类的构造函数--用于声明对象时初始化)\file2.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Module10_(类的构造函数--用于声明对象时初始化).vcxproj -> F:\CPPstudy\Module10_(类的构造函数--用于声明对象时初始化)\Debug\Module10_(类的构造函数和析构函数).exe
+  Module10_(类的构造函数--用于声明对象时初始化).vcxproj -> F:\CPPstudy\Module10_(类的构造函数--用于声明对象时初始化)\Debug\Module10_(类的构造函数和析构函数).pdb (Partial PDB)

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module7_(STL方法_使用数组区间的函数)", "Module7_(STL方法_使用数组区间的函数)\Module7_(STL方法_使用数组区间的函数).vcxproj", "{03A7F588-C8B9-4D70-B2DE-2E97EAB0B44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A7F588-C8B9-4D70-B2DE-2E97EAB0B44D}.Debug|x64.ActiveCfg = Debug|x64
+		{03A7F588-C8B9-4D70-B2DE-2E97EAB0B44D}.Debug|x64.Build.0 = Debug|x64
+		{03A7F588-C8B9-4D70-B2DE-2E97EAB0B44D}.Debug|x86.ActiveCfg = Debug|Win32
+		{03A7F588-C8B9-4D70-B2DE-2E97EAB0B44D}.Debug|x86.Build.0 = Debug|Win32
+		{03A7F588-C8B9-4D70-B2DE-2E97EAB0B44D}.Release|x64.ActiveCfg = Release|x64
+		{03A7F588-C8B9-4D70-B2DE-2E97EAB0B44D}.Release|x64.Build.0 = Release|x64
+		{03A7F588-C8B9-4D70-B2DE-2E97EAB0B44D}.Release|x86.ActiveCfg = Release|Win32
+		{03A7F588-C8B9-4D70-B2DE-2E97EAB0B44D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7287B47-A3B2-4A2F-B39B-31C548E2702F}
+	EndGlobalSection
+EndGlobal

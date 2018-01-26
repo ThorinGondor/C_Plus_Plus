@@ -1,0 +1,45 @@
+﻿  Module16set类.cpp
+f:\cppstudy\module16_(set类)\module16_(set类)\module16set类.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\visualstudio\vc\tools\msvc\14.11.25503\include\algorithm(3333): error C2678: 二进制“=”: 没有找到接受“const std::basic_string<char,std::char_traits<char>,std::allocator<char>>”类型的左操作数的运算符(或没有可接受的转换)
+  e:\visualstudio\vc\tools\msvc\14.11.25503\include\xstring(2285): note: 可能是“std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem)”
+          with
+          [
+              _Elem=char
+          ]
+  e:\visualstudio\vc\tools\msvc\14.11.25503\include\xstring(2280): note: 或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *const )”
+          with
+          [
+              _Elem=char
+          ]
+  e:\visualstudio\vc\tools\msvc\14.11.25503\include\xstring(2251): note: 或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”
+  e:\visualstudio\vc\tools\msvc\14.11.25503\include\xstring(2212): note: 或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)”
+          with
+          [
+              _Elem=char
+          ]
+  e:\visualstudio\vc\tools\msvc\14.11.25503\include\xstring(2082): note: 或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) noexcept”
+  e:\visualstudio\vc\tools\msvc\14.11.25503\include\algorithm(3333): note: 尝试匹配参数列表“(const std::basic_string<char,std::char_traits<char>,std::allocator<char>>, const std::basic_string<char,std::char_traits<char>,std::allocator<char>>)”时
+  e:\visualstudio\vc\tools\msvc\14.11.25503\include\algorithm(3351): note: 参见对正在编译的函数 模板 实例化“_OutIt std::_Set_intersection_no_deprecate<_InIt1,_InIt2,_OutIt,_Pr>(_InIt1,_InIt1,_InIt2,_InIt2,_OutIt,_Pr &)”的引用
+          with
+          [
+              _OutIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>,
+              _InIt1=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>,
+              _InIt2=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>,
+              _Pr=std::less<void>
+          ]
+  e:\visualstudio\vc\tools\msvc\14.11.25503\include\algorithm(3377): note: 参见对正在编译的函数 模板 实例化“_OutIt std::set_intersection<_InIt1,_InIt2,_OutIt,std::less<void>>(_InIt1,_InIt1,_InIt2,_InIt2,_OutIt,_Pr)”的引用
+          with
+          [
+              _OutIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>,
+              _InIt1=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>,
+              _InIt2=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>,
+              _Pr=std::less<void>
+          ]
+  f:\cppstudy\module16_(set类)\module16_(set类)\module16set类.cpp(34): note: 参见对正在编译的函数 模板 实例化“_OutIt std::set_intersection<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<_Ty>>>,std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<_Ty>>>,std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<_Ty>>>>(_InIt1,_InIt1,_InIt2,_InIt2,_OutIt)”的引用
+          with
+          [
+              _OutIt=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>,
+              _Ty=std::basic_string<char,std::char_traits<char>,std::allocator<char>>,
+              _InIt1=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>,
+              _InIt2=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>
+          ]

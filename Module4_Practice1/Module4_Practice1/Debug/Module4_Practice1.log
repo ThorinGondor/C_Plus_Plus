@@ -1,0 +1,4 @@
+﻿  Module4Practice1.cpp
+f:\cppstudy\module4_practice1\module4_practice1\module4practice1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Module4_Practice1.vcxproj -> F:\CPPstudy\Module4_Practice1\Debug\Module4_Practice1.exe
+  Module4_Practice1.vcxproj -> F:\CPPstudy\Module4_Practice1\Debug\Module4_Practice1.pdb (Partial PDB)

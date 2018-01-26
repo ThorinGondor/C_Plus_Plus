@@ -1,0 +1,7 @@
+﻿  Module3.cpp
+f:\cppstudy\module3\module3\module3.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module3\module3\module3.cpp(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+f:\cppstudy\module3\module3\module3.cpp(13): warning C4305: “初始化”: 从“__int64”到“int”截断
+f:\cppstudy\module3\module3\module3.cpp(13): warning C4309: “初始化”: 截断常量值
+  Module3.vcxproj -> F:\CPPstudy\Module3\Debug\Module3.exe
+  Module3.vcxproj -> F:\CPPstudy\Module3\Debug\Module3.pdb (Partial PDB)

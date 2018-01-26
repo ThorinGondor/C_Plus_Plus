@@ -1,0 +1,4 @@
+﻿  file1.cpp
+f:\cppstudy\module9 _(链接性为外部的静态持续变量)\module9 _(链接性为外部的静态持续变量)\file1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Module9 _(链接性为外部的静态持续变量).vcxproj -> F:\CPPstudy\Module9 _(链接性为外部的静态持续变量)\Debug\Module9 _(链接性为外部的静态持续变量).exe
+  Module9 _(链接性为外部的静态持续变量).vcxproj -> F:\CPPstudy\Module9 _(链接性为外部的静态持续变量)\Debug\Module9 _(链接性为外部的静态持续变量).pdb (Partial PDB)

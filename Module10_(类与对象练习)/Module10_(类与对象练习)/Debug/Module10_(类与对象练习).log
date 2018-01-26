@@ -1,0 +1,5 @@
+﻿  file1.cpp
+f:\cppstudy\module10_(类与对象练习)\module10_(类与对象练习)\file1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module10_(类与对象练习)\module10_(类与对象练习)\file1.cpp(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  Module10_(类与对象练习).vcxproj -> F:\CPPstudy\Module10_(类与对象练习)\Debug\Module10_(类与对象练习).exe
+  Module10_(类与对象练习).vcxproj -> F:\CPPstudy\Module10_(类与对象练习)\Debug\Module10_(类与对象练习).pdb (Partial PDB)

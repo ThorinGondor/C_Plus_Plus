@@ -1,0 +1,4 @@
+﻿  RTTI_typeid.cpp
+f:\cppstudy\module15_(rtti_typeid)\module15_(rtti_typeid)\rtti_typeid.cpp(60): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Module15_(RTTI_typeid).vcxproj -> F:\CPPstudy\Module15_(RTTI_typeid)\Debug\Module15_(RTTI_typeid).exe
+  Module15_(RTTI_typeid).vcxproj -> F:\CPPstudy\Module15_(RTTI_typeid)\Debug\Module15_(RTTI_typeid).pdb (Partial PDB)

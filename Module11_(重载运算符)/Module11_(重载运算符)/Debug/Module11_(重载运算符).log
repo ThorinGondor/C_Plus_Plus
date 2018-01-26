@@ -1,0 +1,7 @@
+﻿  file2.cpp
+f:\cppstudy\module11_(重载运算符)\module11_(重载运算符)\file2.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  file1.cpp
+  Module11_(重载运算符).vcxproj -> F:\CPPstudy\Module11_(重载运算符)\Debug\Module11_(重载运算符).exe
+  Module11_(重载运算符).vcxproj -> F:\CPPstudy\Module11_(重载运算符)\Debug\Module11_(重载运算符).pdb (Partial PDB)

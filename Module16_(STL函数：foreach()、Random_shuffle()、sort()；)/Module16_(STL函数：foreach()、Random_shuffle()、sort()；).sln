@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module16_(STL函数：foreach()、Random_shuffle()、sort()；)", "Module16_(STL函数：foreach()、Random_shuffle()、sort()；)\Module16_(STL函数：foreach()、Random_shuffle()、sort()；).vcxproj", "{D7883DA4-085A-4361-9900-080E5F73493F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7883DA4-085A-4361-9900-080E5F73493F}.Debug|x64.ActiveCfg = Debug|x64
+		{D7883DA4-085A-4361-9900-080E5F73493F}.Debug|x64.Build.0 = Debug|x64
+		{D7883DA4-085A-4361-9900-080E5F73493F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D7883DA4-085A-4361-9900-080E5F73493F}.Debug|x86.Build.0 = Debug|Win32
+		{D7883DA4-085A-4361-9900-080E5F73493F}.Release|x64.ActiveCfg = Release|x64
+		{D7883DA4-085A-4361-9900-080E5F73493F}.Release|x64.Build.0 = Release|x64
+		{D7883DA4-085A-4361-9900-080E5F73493F}.Release|x86.ActiveCfg = Release|Win32
+		{D7883DA4-085A-4361-9900-080E5F73493F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A66864C7-6E6D-47E7-9D8C-D7AC34DC443A}
+	EndGlobalSection
+EndGlobal

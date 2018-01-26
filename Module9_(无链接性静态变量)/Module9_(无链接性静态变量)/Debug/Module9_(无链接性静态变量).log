@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+f:\cppstudy\module9_(无链接性静态变量)\module9_(无链接性静态变量)\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module9_(无链接性静态变量)\module9_(无链接性静态变量)\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module9_(无链接性静态变量)\module9_(无链接性静态变量)\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  file2.cpp
+f:\cppstudy\module9_(无链接性静态变量)\module9_(无链接性静态变量)\file2.cpp(8): warning C4305: “初始化”: 从“double”到“float”截断
+  file1.cpp
+f:\cppstudy\module9_(无链接性静态变量)\module9_(无链接性静态变量)\file1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module9_(无链接性静态变量)\module9_(无链接性静态变量)\file1.cpp(12): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码...
+  Module9_(无链接性静态变量).vcxproj -> F:\CPPstudy\Module9_(无链接性静态变量)\Debug\Module9_(无链接性静态变量).exe
+  Module9_(无链接性静态变量).vcxproj -> F:\CPPstudy\Module9_(无链接性静态变量)\Debug\Module9_(无链接性静态变量).pdb (Partial PDB)

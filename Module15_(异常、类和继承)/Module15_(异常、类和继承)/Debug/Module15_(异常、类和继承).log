@@ -1,0 +1,5 @@
+﻿  File2.cpp
+f:\cppstudy\module15_(异常、类和继承)\module15_(异常、类和继承)\file2.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module15_(异常、类和继承)\module15_(异常、类和继承)\file2.cpp(46): warning C4286: “LabelSales::NBad_Index &”: 由基类(“Sales::Bad_Index &”)在行 41 上捕获
+  Module15_(异常、类和继承).vcxproj -> F:\CPPstudy\Module15_(异常、类和继承)\Debug\Module15_(异常、类和继承).exe
+  Module15_(异常、类和继承).vcxproj -> F:\CPPstudy\Module15_(异常、类和继承)\Debug\Module15_(异常、类和继承).pdb (Partial PDB)

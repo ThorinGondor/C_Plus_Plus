@@ -1,0 +1,6 @@
+﻿  ModuleX运算重载符入门.cpp
+f:\cppstudy\modulex_(运算重载符入门)\modulex_(运算重载符入门)\modulex运算重载符入门.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\modulex_(运算重载符入门)\modulex_(运算重载符入门)\modulex运算重载符入门.cpp(26): warning C4172: 返回局部变量或临时变量的地址: C_buff
+f:\cppstudy\modulex_(运算重载符入门)\modulex_(运算重载符入门)\modulex运算重载符入门.cpp(33): warning C4172: 返回局部变量或临时变量的地址: C_temp
+  ModuleX_(运算重载符入门).vcxproj -> F:\CPPstudy\ModuleX_(运算重载符入门)\Debug\ModuleX_(运算重载符入门).exe
+  ModuleX_(运算重载符入门).vcxproj -> F:\CPPstudy\ModuleX_(运算重载符入门)\Debug\ModuleX_(运算重载符入门).pdb (Partial PDB)

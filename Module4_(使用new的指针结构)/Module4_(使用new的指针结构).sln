@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module4_(使用new的指针结构)", "Module4_(使用new的指针结构)\Module4_(使用new的指针结构).vcxproj", "{999BEF95-F337-40A5-9177-1B9646985B99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{999BEF95-F337-40A5-9177-1B9646985B99}.Debug|x64.ActiveCfg = Debug|x64
+		{999BEF95-F337-40A5-9177-1B9646985B99}.Debug|x64.Build.0 = Debug|x64
+		{999BEF95-F337-40A5-9177-1B9646985B99}.Debug|x86.ActiveCfg = Debug|Win32
+		{999BEF95-F337-40A5-9177-1B9646985B99}.Debug|x86.Build.0 = Debug|Win32
+		{999BEF95-F337-40A5-9177-1B9646985B99}.Release|x64.ActiveCfg = Release|x64
+		{999BEF95-F337-40A5-9177-1B9646985B99}.Release|x64.Build.0 = Release|x64
+		{999BEF95-F337-40A5-9177-1B9646985B99}.Release|x86.ActiveCfg = Release|Win32
+		{999BEF95-F337-40A5-9177-1B9646985B99}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {679BAE57-BC01-46D3-B4B7-A4A00E62047A}
+	EndGlobalSection
+EndGlobal

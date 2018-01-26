@@ -1,0 +1,6 @@
+﻿  File2.cpp
+  File1.cpp
+f:\cppstudy\module10_(抽象和类)\module10_(抽象和类)\file1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  Module10_(抽象和类).vcxproj -> F:\CPPstudy\Module10_(抽象和类)\Debug\Module10_(抽象和类).exe
+  Module10_(抽象和类).vcxproj -> F:\CPPstudy\Module10_(抽象和类)\Debug\Module10_(抽象和类).pdb (Partial PDB)

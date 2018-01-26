@@ -1,0 +1,5 @@
+﻿  Module4使用new和delete的实例.cpp
+f:\cppstudy\module4_(使用new和delete的实例)\module4_(使用new和delete的实例)\module4使用new和delete的实例.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module4_(使用new和delete的实例)\module4_(使用new和delete的实例)\module4使用new和delete的实例.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+  Module4_(使用new和delete的实例).vcxproj -> F:\CPPstudy\Module4_(使用new和delete的实例)\Debug\Module4_(使用new和delete的实例).exe
+  Module4_(使用new和delete的实例).vcxproj -> F:\CPPstudy\Module4_(使用new和delete的实例)\Debug\Module4_(使用new和delete的实例).pdb (Partial PDB)

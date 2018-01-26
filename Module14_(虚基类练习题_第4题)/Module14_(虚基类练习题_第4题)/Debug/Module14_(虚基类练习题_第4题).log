@@ -1,0 +1,10 @@
+﻿  File1.cpp
+f:\cppstudy\module14_(虚基类练习题_第4题)\module14_(虚基类练习题_第4题)\person.h(51): warning C4250: “BadDude”: 通过域控制继承“Gunslinger::Gunslinger::Show”
+  f:\cppstudy\module14_(虚基类练习题_第4题)\module14_(虚基类练习题_第4题)\person.h(26): note: 参见“Gunslinger::Show”的声明
+f:\cppstudy\module14_(虚基类练习题_第4题)\module14_(虚基类练习题_第4题)\file1.cpp(44): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+f:\cppstudy\module14_(虚基类练习题_第4题)\module14_(虚基类练习题_第4题)\file1.cpp(69): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  File2.cpp
+  Module14_(虚基类练习题_第4题).vcxproj -> F:\CPPstudy\Module14_(虚基类练习题_第4题)\Debug\Module14_(虚基类练习题_第4题).exe
+  Module14_(虚基类练习题_第4题).vcxproj -> F:\CPPstudy\Module14_(虚基类练习题_第4题)\Debug\Module14_(虚基类练习题_第4题).pdb (Partial PDB)

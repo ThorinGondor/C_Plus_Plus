@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module6_(读取文本数据)", "Module6_(读取文本数据)\Module6_(读取文本数据).vcxproj", "{D8F5CB9D-1A21-485C-9E21-D3C8C8C49917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8F5CB9D-1A21-485C-9E21-D3C8C8C49917}.Debug|x64.ActiveCfg = Debug|x64
+		{D8F5CB9D-1A21-485C-9E21-D3C8C8C49917}.Debug|x64.Build.0 = Debug|x64
+		{D8F5CB9D-1A21-485C-9E21-D3C8C8C49917}.Debug|x86.ActiveCfg = Debug|Win32
+		{D8F5CB9D-1A21-485C-9E21-D3C8C8C49917}.Debug|x86.Build.0 = Debug|Win32
+		{D8F5CB9D-1A21-485C-9E21-D3C8C8C49917}.Release|x64.ActiveCfg = Release|x64
+		{D8F5CB9D-1A21-485C-9E21-D3C8C8C49917}.Release|x64.Build.0 = Release|x64
+		{D8F5CB9D-1A21-485C-9E21-D3C8C8C49917}.Release|x86.ActiveCfg = Release|Win32
+		{D8F5CB9D-1A21-485C-9E21-D3C8C8C49917}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3CD0A03-2246-428B-8DC4-972AD66B43FF}
+	EndGlobalSection
+EndGlobal

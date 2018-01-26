@@ -1,0 +1,41 @@
+﻿  Module16STL和string类.cpp
+f:\cppstudy\module16_(stl和string类)\module16_(stl和string类)\module16stl和string类.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\visualstudio\vc\tools\msvc\14.11.25503\include\algorithm(2913): error C2784: “unknown-type std::operator -(const std::move_iterator<_RanIt> &,const std::move_iterator<_RanIt2> &)”: 未能从“std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>”为“const std::move_iterator<_RanIt> &”推导 模板 参数
+          with
+          [
+              _Ty=std::string
+          ]
+  e:\visualstudio\vc\tools\msvc\14.11.25503\include\xutility(2142): note: 参见“std::operator -”的声明
+  e:\visualstudio\vc\tools\msvc\14.11.25503\include\algorithm(2921): note: 参见对正在编译的函数 模板 实例化“void std::_Sort_unchecked<std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,_Pr>(_RanIt,_RanIt,_Pr &)”的引用
+          with
+          [
+              _Ty=std::string,
+              _Pr=std::less<void>,
+              _RanIt=std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<std::string>>>
+          ]
+  e:\visualstudio\vc\tools\msvc\14.11.25503\include\algorithm(2928): note: 参见对正在编译的函数 模板 实例化“void std::sort<_RanIt,std::less<void>>(_RanIt,_RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=std::_List_iterator<std::_List_val<std::_List_simple_types<std::string>>>,
+              _Pr=std::less<void>
+          ]
+  f:\cppstudy\module16_(stl和string类)\module16_(stl和string类)\module16stl和string类.cpp(27): note: 参见对正在编译的函数 模板 实例化“void std::sort<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>>(_RanIt,_RanIt)”的引用
+          with
+          [
+              _Ty=std::string,
+              _RanIt=std::_List_iterator<std::_List_val<std::_List_simple_types<std::string>>>
+          ]
+e:\visualstudio\vc\tools\msvc\14.11.25503\include\algorithm(2913): error C2784: “unknown-type std::operator -(const std::reverse_iterator<_RanIt> &,const std::reverse_iterator<_RanIt2> &)”: 未能从“std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>”为“const std::reverse_iterator<_RanIt> &”推导 模板 参数
+          with
+          [
+              _Ty=std::string
+          ]
+  e:\visualstudio\vc\tools\msvc\14.11.25503\include\xutility(1276): note: 参见“std::operator -”的声明
+e:\visualstudio\vc\tools\msvc\14.11.25503\include\algorithm(2913): error C2676: 二进制“-”:“std::_List_unchecked_iterator<std::_List_val<std::_List_simple_types<_Ty>>>”不定义该运算符或到预定义运算符可接收的类型的转换
+          with
+          [
+              _Ty=std::string
+          ]
+e:\visualstudio\vc\tools\msvc\14.11.25503\include\algorithm(2913): error C2672: “_Sort_unchecked1”: 未找到匹配的重载函数
+e:\visualstudio\vc\tools\msvc\14.11.25503\include\algorithm(2913): error C2780: “void std::_Sort_unchecked1(_RanIt,_RanIt,_Diff,_Pr &)”: 应输入 4 个参数，却提供了 3 个
+  e:\visualstudio\vc\tools\msvc\14.11.25503\include\algorithm(2876): note: 参见“std::_Sort_unchecked1”的声明

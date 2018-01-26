@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+f:\cppstudy\module15_(异常机制try、catch)\module15_(异常机制try、catch)\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module15_(异常机制try、catch)\module15_(异常机制try、catch)\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module15_(异常机制try、catch)\module15_(异常机制try、catch)\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Module15异常机制trycatch.cpp
+f:\cppstudy\module15_(异常机制try、catch)\module15_(异常机制try、catch)\module15异常机制trycatch.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module15_(异常机制try、catch)\module15_(异常机制try、catch)\module15异常机制trycatch.cpp(23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Module15_(异常机制try、catch).vcxproj -> F:\CPPstudy\Module15_(异常机制try、catch)\Debug\Module15_(异常机制try、catch).exe
+  Module15_(异常机制try、catch).vcxproj -> F:\CPPstudy\Module15_(异常机制try、catch)\Debug\Module15_(异常机制try、catch).pdb (Partial PDB)

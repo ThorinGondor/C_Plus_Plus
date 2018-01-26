@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+f:\cppstudy\module4_struct(结构)\module4_struct(结构)\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module4_struct(结构)\module4_struct(结构)\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\cppstudy\module4_struct(结构)\module4_struct(结构)\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Module4struct结构.cpp
+f:\cppstudy\module4_struct(结构)\module4_struct(结构)\module4struct结构.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Module4_struct(结构).vcxproj -> F:\CPPstudy\Module4_struct(结构)\Debug\Module4_struct(结构).exe
+  Module4_struct(结构).vcxproj -> F:\CPPstudy\Module4_struct(结构)\Debug\Module4_struct(结构).pdb (Partial PDB)
